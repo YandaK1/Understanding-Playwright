@@ -1,0 +1,23 @@
+{
+  "name": "understanding-playwright",
+  "version": "1.0.0",
+  "description": "This repository will contain my own playwright tests to help me learn the syntax and write effective playwright tests.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YandaK1/Understanding-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/YandaK1/Understanding-Playwright/issues"
+  },
+  "homepage": "https://github.com/YandaK1/Understanding-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.3"
+  }
+}
