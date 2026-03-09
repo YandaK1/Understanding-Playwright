@@ -7,4 +7,4 @@ test('user can log into dashboard', async ({ page }) => {
   await page.click('button[type="submit"]');
 //   await expect(page).toHaveText(/Welcome back, Admin/i);
 await expect(page.getByTestId('dashboard-title')).toHaveText('Welcome back, Admin');
-});
+});   
